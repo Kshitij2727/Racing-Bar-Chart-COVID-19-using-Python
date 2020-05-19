@@ -18,8 +18,7 @@ Technology used:-
 Sources :-
 Dataset : https://ourworldindata.org/coronavirus-data-explorer?casesMetric=true&totalFreq=true&smoothing=0&country=USA+GBR+CAN+BRA+AUS+IND+ESP+DEU+FRA
 
-Code source: https://towardsdatascience.com/spread-of-covid-19-with-interactive-data-visualization-521ac471226e
+Reference taken from : https://towardsdatascience.com/spread-of-covid-19-with-interactive-data-visualization-521ac471226e
 
-Credits : Zobair Hossain
 
 All Copyrights Reserved by Kshitij Jain
